@@ -12,6 +12,15 @@
         <module>Tutorials-4.0-0</module>
         <module>Tutorials-4.0-1</module>
         <module>Tutotials-4.0-2</module>
+        <module>Tutorials-5.0-0</module>
+        <module>Tutorials-5.0-1</module>
+        <module>Tutoriaks-5.0-2</module>
+        <module>Tutorials-6.0-0</module>
+        <module>Tutorials-6.0-1</module>
+        <module>Tutorials-6.0-3</module>
+        <module>Tutorials-7.0-0</module>
+        <module>Tutorials-7.0-1</module>
+        <module>Tutorials-7.0-3</module>
     </modules>
 
     <properties>
