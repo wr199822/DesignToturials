@@ -23,6 +23,8 @@
         <module>Tutorials-7.0-3</module>
         <module>Tutorials-8.0-0</module>
         <module>Tutorials-9.0-0</module>
+        <module>Tutorials-13.0-0</module>
+        <module>Tutorials-13.0-2</module>
     </modules>
 
     <properties>
