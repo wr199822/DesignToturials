@@ -1,5 +1,7 @@
 package com.wangrui.test.mq;
 
+import com.alibaba.fastjson.JSON;
+
 import java.util.Date;
 
 /**
@@ -40,7 +42,10 @@ public class Create_account {
     public String getDesc() {
         return desc;
     }
-
+    @Override
+    public String toString() {
+        return JSON.toJSONString(this);
+    }
     public void setDesc(String desc) {
         this.desc = desc;
     }

@@ -17,18 +17,22 @@
         <module>Tutoriaks-5.0-2</module>
         <module>Tutorials-6.0-0</module>
         <module>Tutorials-6.0-1</module>
-        <module>Tutorials-6.0-3</module>
         <module>Tutorials-7.0-0</module>
         <module>Tutorials-7.0-1</module>
         <module>Tutorials-7.0-3</module>
         <module>Tutorials-8.0-0</module>
         <module>Tutorials-9.0-0</module>
-        <module>Tutorials-13.0-0</module>
-        <module>Tutorials-13.0-2</module>
-        <module>Tutorials-14.0-1</module>
-        <module>Tutorials-14.0-2</module>
-        <module>Tutorials-17.0-0</module>
-        <module>Tutorials-19.0-2</module>
+        <module>Tutorials-9.0-1</module>
+        <module>Tutorials-9.0-2</module>
+        <module>Tutorials-10.0-1</module>
+        <module>Tutorials-10.0-2</module>
+        <module>Tutorials-11.0-1</module>
+        <module>Tutorials-11.0-2</module>
+        <module>Tutorials-12.0-0</module>
+        <module>Tutorials-12.0-1</module>
+        <module>Tutorials-12.0-2</module>
+        <module>TestAnnotation</module>
+        <module>Tutorials-15.0-0</module>
     </modules>
 
     <properties>
