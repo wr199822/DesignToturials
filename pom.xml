@@ -25,6 +25,10 @@
         <module>Tutorials-9.0-0</module>
         <module>Tutorials-13.0-0</module>
         <module>Tutorials-13.0-2</module>
+        <module>Tutorials-14.0-1</module>
+        <module>Tutorials-14.0-2</module>
+        <module>Tutorials-17.0-0</module>
+        <module>Tutorials-19.0-2</module>
     </modules>
 
     <properties>

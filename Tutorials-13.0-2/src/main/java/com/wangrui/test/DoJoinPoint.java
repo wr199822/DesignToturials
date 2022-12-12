@@ -48,7 +48,7 @@ public class DoJoinPoint {
         String keyValue = getFiledValue(door.key(),jp.getArgs());
         logger.info("itstack door handler method：{} value：{}", method.getName(), keyValue);
         if (null == keyValue||"".equals(keyValue)) return jp.proceed();
-        //配置内容
+        //配置内容  在白名单 或者key值为空就放行 执行目标方法 如果不在白名单中就返回错误信息
         String[] split = starterService.split(",");
         //白名单过滤
         for (String str : split){
